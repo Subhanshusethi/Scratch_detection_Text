@@ -12,3 +12,5 @@ For testing and validation:
 
 This will iterate through the dataset. Results will be saved in the "saved images" folder after each epoch, which is continuously updated.
 Weights link: 
+## **Model Weights Link:** [Google Drive Folder](https://drive.google.com/drive/folders/1HH4hmftntsaAG1l0Y5_EOqHlmcgdAY0M?usp=sharing)
+
