@@ -46,6 +46,9 @@ pip install -r requirements.txt
 4. Update the configuration block and ensure the input dimensions are adjusted if changing the classification head.
 5. Modify the learning rate, weight decay, and batch size according to the model. The current configuration is optimized for `convnext_base_w`.
 
+## **How to Run the Inference**
+1. Download model weights for VIT-32(512) and convnext_base_w(640)
+2. Change the weights path in notebook and chnage image path to test 
 
 ## **Why `convnext_base_w`?**
 - It achieves a classification accuracy of 70.1% on zero-shot tasks.
