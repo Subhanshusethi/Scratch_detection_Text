@@ -11,4 +11,4 @@ For testing and validation:
 - Set `LOAD_MODEL` to `1` for testing.
 
 This will iterate through the dataset. Results will be saved in the "saved images" folder after each epoch, which is continuously updated.
-
+Weights link: 
