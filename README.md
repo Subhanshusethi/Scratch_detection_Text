@@ -53,3 +53,4 @@ pip install -r requirements.txt
 ## **Why `convnext_base_w`?**
 - It achieves a classification accuracy of 70.1% on zero-shot tasks.
 ```
+## **Model Weights link: **
