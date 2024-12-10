@@ -1,4 +1,3 @@
-```markdown
 # Scratch Detection Text Repository
 
 This repository contains a modular scratch detection system based on CLIP embeddings and various classification models.
@@ -47,7 +46,6 @@ pip install -r requirements.txt
 4. Update the configuration block and ensure the input dimensions are adjusted if changing the classification head.
 5. Modify the learning rate, weight decay, and batch size according to the model. The current configuration is optimized for `convnext_base_w`.
 
----
 
 ## **Why `convnext_base_w`?**
 - It achieves a classification accuracy of 70.1% on zero-shot tasks.
