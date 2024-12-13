@@ -5,7 +5,7 @@ This repository contains a modular scratch detection system based on CLIP embedd
 ---
 
 ## **GPU Requirements**
-- NVIDIA P100 (15GB)
+- NVIDIA P100 (2GB) {Kaggle}
 
 ---
 
