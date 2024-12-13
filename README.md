@@ -22,11 +22,14 @@ pip install -r requirements.txt
 
 ---
 
-## **Performance Metrics for bad images**
-| Model               | Precision | F1 Score |
-|---------------------|-----------|----------|
-| **ViT-B-32**        | 0.8333    | 0.7844   |
-| **convnext_base_w** | 0.7500    | 0.8571   |
+
+**Class: Scratches**
+|Models	  |**VIT-B-32**	|**Convnext_base_w**|
+|----------|---------------|-------------------|
+|Precision |0.8333	      |0.8750             |
+|F1 Score  |0.7895	      |0.8235             |
+|Recall	  |0.7500	      |0.8485             |
+
 
 ---
 
